@@ -1,0 +1,48 @@
+
+  .container-fluid.banner {
+    background-color: #01010a;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #fff;
+  }
+  
+  .form-inline {
+    margin-left: auto;
+  }
+  
+  .form-control {
+    width: 200px;
+  }
+  
+  .song-duration {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .song-duration .song-info {
+    margin-left: 20px;
+  }
+  
+  
+  .song-duration p {
+    margin: 0;
+    color: #6c757d;
+  }
+  
+  .song-duration .progress {
+    height: 10px;
+    margin-top: 10px;
+  }
+  
+  .song-duration .progress-bar {
+    background-color: #007bff;
+  }
+  
